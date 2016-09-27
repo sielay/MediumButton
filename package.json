@@ -1,0 +1,24 @@
+{
+  "name": "medium-button-node",
+  "version": "1.0.0",
+  "description": "Node wrapper for https://github.com/arcs-/MediumButton",
+  "main": "src/MediumButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sielay/MediumButton.git"
+  },
+  "keywords": [
+    "mediumeditor",
+    "button",
+    "extension"
+  ],
+  "author": "lukaszsielski@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sielay/MediumButton/issues"
+  },
+  "homepage": "https://github.com/sielay/MediumButton#readme"
+}
